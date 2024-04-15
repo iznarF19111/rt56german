@@ -28,7 +28,7 @@
  idea_CHL_repubican_guard: "The Republican Guard"
  idea_CHL_repubican_guard_desc: "As it currently stands, the republic is in great peril, and close to the verge of collapse. However, president Arturo Alessandri has since 1925 stabilized much of the situation, and now the reliance on this secret militia is redirecting funding meant to go to the army, thus preventing expansion of the regular forces."
 
- CHL_german_compensation_idea: "German Compensation"
+ CHl_german_compensation_idea: "German Compensation"
 
  CHL_spirit_of_the_conquistadors: "Spirit of the Conquistadors"
  CHL_spirit_of_the_conquistadors_desc: "It is down to the glory of the Conquistadors that brought our people here to our great kingdom on the South Atlantic. They play a major part in our history and now serve as the inspiration for our people and their will shall guide us into the future. [CHL.GetNameDefCap] will grow larger as we conquer our weaker neighbors and become the dominant power in South America."
